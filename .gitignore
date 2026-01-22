@@ -1,0 +1,18 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+
+# Logs and env
+*.log
+.env
+
+# IDE/editor
+.vscode/
+.idea/
